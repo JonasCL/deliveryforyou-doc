@@ -1,0 +1,29 @@
+{
+  "name": "deliveryforyou-api-doc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "now": "^19.0.1",
+    "serve-static": "^1.14.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "start": "node main.js",
+    "dev": "nodemon main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonasCL/deliveryforyou-doc.git"
+  },
+  "author": "Jonas Leitão",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonasCL/deliveryforyou-doc/issues"
+  },
+  "homepage": "https://github.com/JonasCL/deliveryforyou-doc#readme"
+}
